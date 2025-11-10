@@ -1,10 +1,7 @@
-# SQL-Excel-Covid Deaths Project
+# Covid Data Analysis Project
 
+Analyzed COVID-19 deaths and vaccination data (Mar 2020 – Jun 2021) using MS SQL Server and Excel. 
 
-In this SQL-Excel project, using the deaths and vaccination data tables of Covid-19 from March 2020 to June 2021, I've done an exploratary analysis SQL queries.
+Imported data from [Our World in Data](https://ourworldindata.org/covid-deaths.)
 
-The raw dataset was downloaded from https://ourworldindata.org/covid-deaths.
-
-I used MS-SQL Server and imported the Excel files to a SQL Database in my local machine to carry forward with the analysis.
-
-I used Deaths Analysis Project on Excel Dashboard.
+Executed exploratory SQL queries, and developed an Excel dashboard for mortality insights.
